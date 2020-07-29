@@ -1,19 +1,18 @@
-### Hi there, I'm Phan Thanh Tu 👋
-<!-- aka [codeSTACKr][website] 👋 -->
+### Hi there, I'm Phan Thanh Tu aka [lazy cat][website] 👋
 
 ## I'm a Software Engineering Student!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
-- 🌱 I’m currently preparing for Capstone project 🤣
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning everything
+- 👯 I’m currently preparing for Capstone project
+- 🥅 2020 Goals: Graduate and find a nice job
 <!-- - ⚡ Fun fact: I love to read and play guitar -->
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -57,7 +56,7 @@
 
 <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tupt0101&show_icons=true&hide_border=true" /> -->
 
-<!-- [website]: https://codeSTACKr.com -->
+[website]: https://tupt0101.github.io/
 [twitter]: https://twitter.com/tupt0101
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [facebook]: https://youtube.com/tupt0101
