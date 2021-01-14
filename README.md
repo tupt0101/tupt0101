@@ -2,9 +2,9 @@
 
 ## I'm a Software Engineering Student!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
-- 🌱 I’m currently learning everything
-- 👯 I’m currently preparing for Capstone project
-- 🥅 2020 Goals: Graduate and find a nice job
+<!-- - 🌱 I’m currently learning everything -->
+<!-- - 👯 I’m currently preparing for Capstone project -->
+<!-- - 🥅 2020 Goals: Graduate and find a nice job -->
 <!-- - ⚡ Fun fact: I love to read and play guitar -->
 
 ### Connect with me:
