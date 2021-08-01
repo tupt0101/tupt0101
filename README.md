@@ -59,7 +59,7 @@
 
 <!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tupt0101&show_icons=true&hide_border=true" /> -->
 
-[website]: https://tupt0101.github.io/
+[website]: https://lazycat.hashnode.dev/
 [twitter]: https://twitter.com/tupt0101
 [facebook]: https://facebook.com/tupt0101
 [instagram]: https://instagram.com/duahaunhieuhat
