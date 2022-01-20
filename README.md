@@ -1,6 +1,6 @@
 ### Hi there, I'm Phan Thanh Tu aka [lazy cat][website] 👋
 
-## I'm a Software Engineering Student!
+## I'm a Software Engineer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 <!-- - 🌱 I’m currently learning everything -->
 <!-- - 👯 I’m currently preparing for Capstone project -->
